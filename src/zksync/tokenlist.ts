@@ -1,0 +1,3 @@
+const wETHAddress = "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91";
+const usdcAddress = "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4";
+const daiAddress= "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b";
